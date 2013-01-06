@@ -15,7 +15,7 @@ only big difference is that this module doesn't parse regular expressions.
 Installing
 ----------
 ```bash
-pip install dummydata
+pip install pyyaml
 ```
 
 Usage
